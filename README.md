@@ -24,7 +24,6 @@ IndianRailwaysDashboard/
 │   ├── train_schedule.csv
 │── app.py  # Main Dash application
 │── README.md  # Project documentation
-│── requirements.txt  # Python dependencies
 ```
 
 ## Data Sources
